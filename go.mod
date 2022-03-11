@@ -65,7 +65,7 @@ require (
 	gorm.io/driver/sqlserver v1.3.1
 	gorm.io/gorm v1.23.2
 	unknwon.dev/clog/v2 v2.2.0
-	xorm.io/builder v0.3.6
+	xorm.io/builder v0.3.9
 	xorm.io/core v0.7.2
 	xorm.io/xorm v0.8.0
 )
