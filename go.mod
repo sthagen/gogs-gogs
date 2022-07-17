@@ -60,14 +60,14 @@ require (
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/ini.v1 v1.66.6
 	gopkg.in/macaron.v1 v1.4.0
-	gorm.io/driver/mysql v1.3.4
+	gorm.io/driver/mysql v1.3.5
 	gorm.io/driver/postgres v1.3.8
 	gorm.io/driver/sqlite v1.3.4
 	gorm.io/driver/sqlserver v1.3.1
-	gorm.io/gorm v1.23.7
+	gorm.io/gorm v1.23.8
 	modernc.org/sqlite v1.17.3
 	unknwon.dev/clog/v2 v2.2.0
-	xorm.io/builder v0.3.6
+	xorm.io/builder v0.3.12
 	xorm.io/core v0.7.2
 	xorm.io/xorm v0.8.0
 )
