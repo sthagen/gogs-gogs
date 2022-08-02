@@ -8,7 +8,7 @@ require (
 	github.com/derision-test/go-mockgen v1.3.3
 	github.com/editorconfig/editorconfig-core-go/v2 v2.4.5
 	github.com/fatih/color v1.9.0 // indirect
-	github.com/go-ldap/ldap/v3 v3.4.3
+	github.com/go-ldap/ldap/v3 v3.4.4
 	github.com/go-macaron/binding v1.2.0
 	github.com/go-macaron/cache v0.0.0-20190810181446-10f7c57e2196
 	github.com/go-macaron/captcha v0.2.0
@@ -52,7 +52,7 @@ require (
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6
 	github.com/unknwon/paginater v0.0.0-20170405233947-45e5d631308e
 	github.com/urfave/cli v1.22.9
-	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/net v0.0.0-20220325170049-de3da57026de
 	golang.org/x/text v0.3.7
 	gopkg.in/DATA-DOG/go-sqlmock.v2 v2.0.0-20180914054222-c19298f520d0
@@ -62,10 +62,10 @@ require (
 	gopkg.in/macaron.v1 v1.4.0
 	gorm.io/driver/mysql v1.3.5
 	gorm.io/driver/postgres v1.3.8
-	gorm.io/driver/sqlite v1.3.4
+	gorm.io/driver/sqlite v1.3.6
 	gorm.io/driver/sqlserver v1.3.1
 	gorm.io/gorm v1.23.8
-	modernc.org/sqlite v1.17.3
+	modernc.org/sqlite v1.18.0
 	unknwon.dev/clog/v2 v2.2.0
 	xorm.io/builder v0.3.6
 	xorm.io/core v0.7.2
